@@ -42,12 +42,12 @@ git push origin main
 ```
 
 ## 10 (opzionale): Pulire i branch
-#Cancella il branch locale se non serve più:
+Cancella il branch locale se non serve più:
 ```bash
 git branch -d nuovo_branch
 ```
 
-# Cancella il branch remoto se non serve più:
+Cancella il branch remoto se non serve più:
 ```bash
 git branch -d nuovo_branch
 ```
