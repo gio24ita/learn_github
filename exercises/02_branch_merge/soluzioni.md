@@ -1,6 +1,6 @@
 # Soluzione Esercizio 02 - Branch e Merge con due branch
 
-## 1: Assicurati di essere sul branch main
+# 1: Assicurati di essere sul branch main
 ```bash
 git checkout main
 
