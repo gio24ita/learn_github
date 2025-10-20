@@ -1,6 +1,8 @@
 # Soluzione
 
 ```bash
+
+# Esercizio 01
 1. Repo: 01_repo da github
 2. git clone <URL del repo>
 3. git init
@@ -11,7 +13,8 @@
 6. git remote add origin <URL del repo>
 6. git push -u origin 
 
-```bash
+
+# Esercizio 02
 1. cd progetti_personali/learn_github
 2. git status
 3. mkdir tutorial_repo
